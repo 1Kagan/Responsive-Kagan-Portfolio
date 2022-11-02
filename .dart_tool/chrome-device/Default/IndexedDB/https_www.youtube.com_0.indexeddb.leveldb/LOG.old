@@ -1,0 +1,22 @@
+2022/10/28-16:46:19.741 9c8 Reusing MANIFEST C:\Users\kamon\AppData\Local\Temp\flutter_tools.5e0bda52\flutter_tools_chrome_device.ff7cd125\Default\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/10/28-16:46:19.741 9c8 Recovering log #3
+2022/10/28-16:46:19.748 9c8 Reusing old log C:\Users\kamon\AppData\Local\Temp\flutter_tools.5e0bda52\flutter_tools_chrome_device.ff7cd125\Default\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/000003.log 
+2022/10/28-16:46:21.923 4a70 Manual compaction at level-0 from '\x00\x17\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x18\x00\x00\x00' @ 0 : 0; will stop at (end)
+2022/10/28-16:46:22.020 4a70 Manual compaction at level-0 from '\x00\x1a\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x1b\x00\x00\x00' @ 0 : 0; will stop at (end)
+2022/10/28-16:46:22.082 9c8 Manual compaction at level-0 from '\x00\x18\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x19\x00\x00\x00' @ 0 : 0; will stop at (end)
+2022/10/28-16:46:22.097 9c8 Manual compaction at level-0 from '\x00\x19\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x1a\x00\x00\x00' @ 0 : 0; will stop at (end)
+2022/10/28-16:46:22.110 39e8 Level-0 table #5: started
+2022/10/28-16:46:22.115 39e8 Level-0 table #5: 392446 bytes OK
+2022/10/28-16:46:22.117 39e8 Delete type=0 #3
+2022/10/28-16:46:22.117 39e8 Manual compaction at level-0 from '\x00\x1b\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x1c\x00\x00\x00' @ 0 : 0; will stop at (end)
+2022/10/28-16:46:22.124 9c8 Level-0 table #7: started
+2022/10/28-16:46:22.126 9c8 Level-0 table #7: 961 bytes OK
+2022/10/28-16:46:22.128 9c8 Delete type=0 #4
+2022/10/28-16:46:22.128 9c8 Manual compaction at level-0 from '\x00\x1c\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x1d\x00\x00\x00' @ 0 : 0; will stop at (end)
+2022/10/28-16:46:22.128 9c8 Manual compaction at level-1 from '\x00\x1c\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x1d\x00\x00\x00' @ 0 : 0; will stop at '\x00\x1c\x02\x1f\x03\x00P\xc9W\xca>xB\x00\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 7764 : 0
+2022/10/28-16:46:22.128 9c8 Compacting 1@1 + 1@2 files
+2022/10/28-16:46:22.132 9c8 Generated table #8@1: 205 keys, 17532 bytes
+2022/10/28-16:46:22.132 9c8 Compacted 1@1 + 1@2 files => 17532 bytes
+2022/10/28-16:46:22.133 9c8 compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/10/28-16:46:22.133 9c8 Delete type=2 #7
+2022/10/28-16:46:22.134 9c8 Manual compaction at level-1 from '\x00\x1c\x02\x1f\x03\x00P\xc9W\xca>xB\x00\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 7764 : 0 .. '\x00\x1d\x00\x00\x00' @ 0 : 0; will stop at (end)
